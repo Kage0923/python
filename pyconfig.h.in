@@ -1,5 +1,5 @@
 /* pyconfig.h.in.  Generated from configure.ac by autoheader.  */
-//scott
+
 
 #ifndef Py_PYCONFIG_H
 #define Py_PYCONFIG_H
